@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**denmark98/denmark98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Thank you for visiting my GITHUB 
 
@@ -12,4 +8,3 @@ If you have any questions please do not hesitate to reach out to me.
 Thank you,
 
 Patrick
--->
